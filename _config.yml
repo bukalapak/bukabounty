@@ -4,7 +4,7 @@ title_right   : "vulnreward" # default: ""
 description   : ""
 keywords      : ""
 url           : http://bukalapak.github.io/vulnreward # site url
-baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
+baseurl       : "/vulnreward" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
