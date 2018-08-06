@@ -5,64 +5,13 @@
     <description>Bukalapak Bug bounty program </description>
     <link>http://localhost:4000/bukabounty/</link>
     <atom:link href="http://localhost:4000/bukabounty/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 Aug 2018 14:17:20 +0700</pubDate>
-    <lastBuildDate>Thu, 02 Aug 2018 14:17:20 +0700</lastBuildDate>
+    <pubDate>Mon, 06 Aug 2018 10:48:57 +0700</pubDate>
+    <lastBuildDate>Mon, 06 Aug 2018 10:48:57 +0700</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
-        <title>Kebijakan Publikasi</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Persilahkan kami untuk mengetahui issue yang berpotensial sebagai &lt;strong&gt;security issue&lt;/strong&gt;, tim kami akan melakukan validasi dan verifikasi mengenai issue tersebut dan memperbaikinya.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Sediakan kami waktu yang sesuai untuk memperbaiki issue tersebut sebelum dipublikasi ke khalayak atau third-party.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Niat yang baik untuk menghindari adanya pelanggaran privasi, kerusakan data, dan interupsi atau degradasi dari service kami. Berinteraksilah dengan akun yang anda miliki atau dengan izin explicit dari pemilik akun.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 26 Jul 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/bukabounty/2018/kebijakan-publikasi/</link>
-        <guid isPermaLink="true">http://localhost:4000/bukabounty/2018/kebijakan-publikasi/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>BukaBounty</title>
-        <description>&lt;p&gt;Untuk menunjukkan apresiasi kepada security researcher yang bertanggung jawab, Bukalapak menawarkan &lt;strong&gt;rewards&lt;/strong&gt; berupa uang untuk laporan security vulnerability yang tervalidasi. Jumlah reward yang diberikan bervariasi tergantung dari &lt;strong&gt;severity&lt;/strong&gt; issue yang dilaporkan, dan &lt;code class=&quot;highlighter-rouge&quot;&gt;Keputusan pihak Bukalapak bersifat Mutlak dan Benar&lt;/code&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 25 Jul 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/bukabounty/2018/bukabounty/</link>
-        <guid isPermaLink="true">http://localhost:4000/bukabounty/2018/bukabounty/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Pelaporan</title>
-        <description>&lt;p&gt;Kirimkan temuan anda ke email &lt;code class=&quot;highlighter-rouge&quot;&gt;security@bukalapak.com&lt;/code&gt;. Dengan melampirkan:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Nama anda&lt;/li&gt;
-  &lt;li&gt;Judul temuan&lt;/li&gt;
-  &lt;li&gt;PoC / Proof of Concept untuk reproduksi issue (PoC yang detail akan mempercepat proses validasi)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Catatan: &lt;strong&gt;Bukalapak tidak bekerja sama dengan kontraktor luar seperti &lt;code class=&quot;highlighter-rouge&quot;&gt;hackerone&lt;/code&gt; untuk program bug bounty&lt;/strong&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 24 Jul 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/bukabounty/2018/pelaporan/</link>
-        <guid isPermaLink="true">http://localhost:4000/bukabounty/2018/pelaporan/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Scope</title>
-        <description>&lt;h3 id=&quot;scope-dari-program-bukabounty-antara-lain&quot;&gt;Scope dari program BukaBounty antara lain:&lt;/h3&gt;
+        <title>Cakupan</title>
+        <description>&lt;h5 id=&quot;semua-konten-yang-berada-pada-domain-berikut&quot;&gt;Semua konten yang berada pada domain berikut:&lt;/h5&gt;
 
 &lt;ul&gt;
   &lt;li&gt;www.bukalapak.com&lt;/li&gt;
@@ -71,102 +20,104 @@
   &lt;li&gt;komunitas.bukalapak.com&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Mon, 23 Jul 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/bukabounty/2018/scope/</link>
-        <guid isPermaLink="true">http://localhost:4000/bukabounty/2018/scope/</guid>
+        <pubDate>Fri, 27 Jul 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/bukabounty/2018/cakupan/</link>
+        <guid isPermaLink="true">http://localhost:4000/bukabounty/2018/cakupan/</guid>
         
         
       </item>
     
       <item>
-        <title>Pengecualian</title>
-        <description>&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;BukaBounty adalah program bug bounty yang berbasis impact (impact-based)&lt;/code&gt;. Sehingga validasi akan dilakukan untuk melihat apakah issue berpengaruh terhadap user dan pelanggan produk Bukalapak atau tidak.&lt;/p&gt;
-
-&lt;h3 id=&quot;ketika-melakukan-penelitian-terhadap-celah-keamanan-kami-menghimbau-kepada-anda-untuk-tidak-melakukan-hal-hal-berikut-ini&quot;&gt;Ketika melakukan penelitian terhadap celah keamanan, kami menghimbau kepada anda untuk tidak melakukan hal-hal berikut ini:&lt;/h3&gt;
+        <title>Celah keamanan yang diproses</title>
+        <description>&lt;h5 id=&quot;semua-yang-berhubungan-dan-berakibat-pada-bocornya-kerahasiaan-dan-integritas-data-pengguna-bukalapak-termasuk-dalam-celah-keamanan-yang-diproses-contoh-celah-keamanan-yang-diproses&quot;&gt;Semua yang berhubungan dan berakibat pada bocornya kerahasiaan dan integritas data pengguna Bukalapak termasuk dalam celah keamanan yang diproses. Contoh celah keamanan yang diproses:&lt;/h5&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Social engineering&lt;/strong&gt; (termasuk &lt;strong&gt;phising&lt;/strong&gt;) kepada staf Bukalapak ataupun kontraktor&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Kontak fisik terhadap&lt;/strong&gt; properti atau data center Bukalapak&lt;/li&gt;
+  &lt;li&gt;Injection (SQL, NoSQL)&lt;/li&gt;
+  &lt;li&gt;Cross-site scripting (XSS)&lt;/li&gt;
+  &lt;li&gt;Cross-site request forgery (CSRF)&lt;/li&gt;
+  &lt;li&gt;Broken Access Control/IDOR)&lt;/li&gt;
+  &lt;li&gt;Server-side code execution bugs (RCE)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;kategori-laporan-yang-tidak-masuk-kualifikasi-bukabounty&quot;&gt;Kategori laporan yang tidak masuk kualifikasi BukaBounty&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Sebagai catatan&lt;/strong&gt;, cakupan program BukaBounty terbatas pada hal teknis yang berhubungan dengan web. Hal di luar teknis seperti masuk ke kantor Bukalapak, serangan fisik pada fasilitas Bukalapak, phishing pada karyawan kami, dan sebagainya tidak akan diproses.&lt;/p&gt;
+
+&lt;p&gt;Dimohon juga untuk tidak melakukan percobaan seperti serangan DoS, BlackHat SEO, Spam, atau semacamnya. Kami juga melarang penggunaan alat celah keamanan otomatis yang bisa mengakibatkan lonjakan lalu lintas jaringan yang besar.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Jul 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/bukabounty/2018/celah-yang-diproses/</link>
+        <guid isPermaLink="true">http://localhost:4000/bukabounty/2018/celah-yang-diproses/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Celah keamanan yang tidak diproses</title>
+        <description>&lt;h5 id=&quot;sebagian-laporan-tidak-akan-diproses-tergantung-pada-risiko-yang-ditimbulkan-meskipun-demikian-kami-tetap-akan-melakukan-pemeriksaan-semua-kasus-berikut-adalah-laporan-umum-yang-memiliki-tingkat-risiko-rendah-dan-tidak-mendapatkan-hadiah&quot;&gt;Sebagian laporan tidak akan diproses, tergantung pada risiko yang ditimbulkan. Meskipun demikian, kami tetap akan melakukan pemeriksaan semua kasus. Berikut adalah laporan umum yang memiliki tingkat risiko rendah dan tidak mendapatkan hadiah:&lt;/h5&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Denial of service&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Spamming&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Missing cookie flags&lt;/strong&gt; pada cookies yang tidak sensitive&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Policies&lt;/strong&gt; Bukalapak pada ada/tidak ada SPF/DMARC records&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Login / logout CSRF&lt;/strong&gt;, atau &lt;strong&gt;CSRF pada forms yang available untuk user anonymous&lt;/strong&gt; (user tak login). Contoh: form kontak&lt;/li&gt;
-  &lt;li&gt;Issue terkait &lt;strong&gt;Password Policy&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Serangan lokal / MiTM&lt;/strong&gt; (Man in The Middle)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Information disclosure&lt;/strong&gt; (Kecuali data pelanggan/user Bukalapak) Contoh: server version, os version, dll&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Fingerprinting / banner disclosure&lt;/strong&gt; pada common / public services.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Disclosure dari known public files atau direktori&lt;/strong&gt;. Contoh: robots.txt&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Clickjacking / tapjacking&lt;/strong&gt; dan issue-issue yang hanya dapat dieksploitasi melalui clickjacking/tapjacking.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;CSV injection&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Issue yang membutuhkan &lt;strong&gt;akses fisik ke kemputer korban&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Descriptive error messages&lt;/strong&gt;. Contoh: Stack Traces, application atau server errors&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Open redirects&lt;/strong&gt;. 99% dari open redirects memiliki low security impact. Pada beberapa kasus dimana impact bernilai high, contoh: mencuri authentication token terkualifikasi BukaBounty&lt;/li&gt;
-  &lt;li&gt;Laporan yang menyatakan bahwa &lt;strong&gt;software out of date / vulnerable&lt;/strong&gt; tanpa memberikan PoC (Proof of Concept)&lt;/li&gt;
-  &lt;li&gt;Issue-issue yang terkait dengan &lt;strong&gt;HTTP transmission&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Berhubungan dengan / adanya fitur &lt;strong&gt;autocomplete&lt;/strong&gt; atau &lt;strong&gt;save password&lt;/strong&gt; pada aplikasi atau web browser&lt;/li&gt;
-  &lt;li&gt;Ketidakadaan &lt;strong&gt;Secure / HTTPOnly&lt;/strong&gt; flags pada non-security-sensitive Cookies&lt;/li&gt;
-  &lt;li&gt;Ketidakadaan dari &lt;strong&gt;Security Speed bump&lt;/strong&gt; ketika meninggalkan aplikasi / website bukalapak&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Bypass Captcha&lt;/strong&gt; yang lemah&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Brute force&lt;/strong&gt; halaman Login / Forgot Password dan akun yang terkunci tanpa paksaan&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;OPTIONS HTTP method enabled&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Issue &lt;strong&gt;Content injection&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;HTTPS Mixed Content Scripts&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Broken Links&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Path Disclosure&lt;/strong&gt; yang memiiki impact low&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Self-XSS&lt;/strong&gt; yang tidak dapat digunakan untuk mengeksploitasi user lain. Kami membutuhkan bukti bagaimana XSS tersebut dapat digunakan untuk menyerang user Bukalapak lain (memaksa user lain untuk mengsubmit payload tidak masuk dalam kualifikasi BukaBounty)&lt;/li&gt;
-  &lt;li&gt;Issue-issee &lt;strong&gt;Brute Force&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Issue terkait &lt;strong&gt;window.opener-related&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Laporan yang mencantumkan &lt;strong&gt;spekulasi tinggi terhadap kerusakan secara teori&lt;/strong&gt;. Laporan harus &lt;strong&gt;kongkrit&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tidak adanya HTTP security headers&lt;/strong&gt;, secara spesifik, contohnya Strict-Transport-Security, X-Frame-Options, X-XSS-Protection, X-Content-Type-Options, Content-Security-Policy, X-Content-Security-Policy, X-WebKit-CSP, Content-Security-Policy-Report-Only&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Outdated web browsers&lt;/strong&gt;: Vulnerabilities yang tergantung dari outdated atau unpatched browser tidak masuk kualifikasi BukaBounty, termasuk Internet Explorer semua versi&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Vulnerabilities yang mencangkup konten aktif&lt;/strong&gt; seperti add-ons web browser&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Kontak fisik atau serangan social engineering&lt;/strong&gt; terhadap user bukalapak (termasuk karyawan Bukalapak)&lt;/li&gt;
-  &lt;li&gt;Issue yang membutuhkan &lt;strong&gt;interaksi user&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Semua celah keamanan yang melanggar aturan dan/atau di luar cakupan.&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cross site-scripting (XSS)&lt;/strong&gt; dengan tingkat risiko rendah. Contohnya XSS yang hanya berdampak pada akun anda sendiri.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Open redirects.&lt;/strong&gt; 99% dari open redirect memiliki tingkat risiko keamanan yang rendah. Pada kasus tertentu, kami masih menerima laporan celah keamanan ini jika memiliki risiko yang lebih tinggi. Misalnya, mampu melakukan pencurian otentikasi token.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Miskonfigurasi.&lt;/strong&gt; Misalnya: HSTS, Missing cookie flags, Strict-Transport-Security, X-Frame-Options, X-XSS-Protection, X-Content-Type-Options, Content-Security-Policy, X-Content-Security-Policy, X-WebKit-CSP, Content-Security-Policy-Report-Only.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Celah yang memanfaatkan browser dan aplikasi versi lama.&lt;/strong&gt; Celah keamanan yang memanfaatkan versi celah browser dan aplikasi versi lama.&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+        <pubDate>Wed, 25 Jul 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/bukabounty/2018/celah-yang-tidak-diproses/</link>
+        <guid isPermaLink="true">http://localhost:4000/bukabounty/2018/celah-yang-tidak-diproses/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Imbalan BukaBounty</title>
+        <description>&lt;p&gt;Sebagai penghargaan kami kepada periset keamanan yang telah berpartisipasi, Bukalapak memberikan imbalan uang untuk setiap laporan celah keamanan yang dapat diproses. Nilai imbalan bervariasi, tergantung pada tingkat risiko dari celah keamanan yang dilaporkan. Keputusan pemberian imbalan bersifat mutlak.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Jul 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/bukabounty/2018/imbalan-bukabounty/</link>
+        <guid isPermaLink="true">http://localhost:4000/bukabounty/2018/imbalan-bukabounty/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Pemeriksaan dan Laporan celah keamanan</title>
+        <description>&lt;h5 id=&quot;ketika-melakukan-pemeriksaan-celah-keamanan-dimohon-untuk&quot;&gt;Ketika melakukan pemeriksaan celah keamanan, dimohon untuk:&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hanya menggunakan akun sendiri atau akun lain dengan syarat Anda memiliki izin untuk melakukan percobaan.&lt;/li&gt;
+  &lt;li&gt;Tidak membahayakan pengguna lain atau sistem yang ada di Bukalapak.&lt;/li&gt;
+  &lt;li&gt;Tidak mempublikasikan celah keamanan ke khalayak umum tanpa izin kami.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;ketika-melaporkan-celah-keamanan-dimohon-untuk&quot;&gt;Ketika melaporkan celah keamanan, dimohon untuk:&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Laporkan temuan anda melalui email ke &lt;strong&gt;security@bukalapak.com&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Lampirkan PoC yang menunjukkan secara lengkap tentang celah keamanan yang ditemukan bisa berupa &lt;strong&gt;dokumen pdf&lt;/strong&gt;, &lt;strong&gt;video&lt;/strong&gt;, &lt;strong&gt;langkah-langkah singkat dan jelas berikut gambar&lt;/strong&gt;. Semakin jelas laporan, akan mempercepat respon yang kami berikan. Harap menunggu kami melakukan validasi PoC dan merespon balik ke laporan anda.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 23 Jul 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/bukabounty/2018/pemeriksaan-dan-laporan-celah-keamanan/</link>
+        <guid isPermaLink="true">http://localhost:4000/bukabounty/2018/pemeriksaan-dan-laporan-celah-keamanan/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Laporan yang baik</title>
+        <description>&lt;h5 id=&quot;anda-dapat-membantu-kami-untuk-lebih-cepat-mereproduce-celah-keamanan-yang-kamu-temukan-dengan-membuat-laporan-yang-simpel-dan-jelas-melalui-email-dengan-format&quot;&gt;Anda dapat membantu kami untuk lebih cepat mereproduce celah keamanan yang kamu temukan dengan membuat laporan yang simpel dan jelas melalui email dengan format:&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;To : security@bukalapak.com&lt;/li&gt;
+  &lt;li&gt;Subject : [BUKABOUNTY] Judul laporan.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/bukabounty/assets/images/reportexp.png&quot; alt=&quot;contoh&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 22 Jul 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/bukabounty/2018/pengecuailan/</link>
-        <guid isPermaLink="true">http://localhost:4000/bukabounty/2018/pengecuailan/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Do</title>
-        <description>&lt;h3 id=&quot;do&quot;&gt;Do:&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Laporan hanya berisikan vulnerability yang anda temukanberpengaruh terhadap user lain&lt;/li&gt;
-  &lt;li&gt;Gunakanlah hanya akun milik anda sendiri atau akun-akun yang anda telah memiliki izin untuk menggunakan guna tujuan testing&lt;/li&gt;
-  &lt;li&gt;Siapkan sebuah PoC yang menunjukan detail tentang bagaimana vulnerability tersebut ditemukan. Anda dapat membuatnya dalam bentuk PDF / Video, proses step by step, dengan screenshot, dan pastikan vulnerability anda dapat di reproduksi&lt;/li&gt;
-  &lt;li&gt;Bersabar dan tunggu tim kami untuk mereproduksi serta memvalidasi PoC anda. Jika sudah tervalidasi, kami akan menghubungi anda kembali&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 21 Jul 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/bukabounty/2018/do/</link>
-        <guid isPermaLink="true">http://localhost:4000/bukabounty/2018/do/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Don't</title>
-        <description>&lt;h3 id=&quot;dont&quot;&gt;Don’t:&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Melakukan tindakan yang merugikan user Bukalapak atau sistem Bukalapak&lt;/li&gt;
-  &lt;li&gt;Mempublikasi vulnerability tanpa izin Bukalapak&lt;/li&gt;
-  &lt;li&gt;Menggunakan akun yang bukan milik anda atau anda tidak memiliki izin untuk menggunakannya dalam tujuan testing&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 20 Jul 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/bukabounty/2018/don't/</link>
-        <guid isPermaLink="true">http://localhost:4000/bukabounty/2018/don't/</guid>
+        <link>http://localhost:4000/bukabounty/2018/laporan-yang-baik/</link>
+        <guid isPermaLink="true">http://localhost:4000/bukabounty/2018/laporan-yang-baik/</guid>
         
         
       </item>
