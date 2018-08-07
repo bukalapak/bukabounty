@@ -50,7 +50,8 @@ p {
 }
 
 a {
-  color: $action-color;
+  color: white;
+  //color: $action-color;
   text-decoration: none;
   transition: color $base-duration $base-timing;
 
