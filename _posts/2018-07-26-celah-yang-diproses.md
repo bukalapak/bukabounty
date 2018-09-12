@@ -11,7 +11,7 @@ keywords: "Celah keamanan yang di proses"
 - Injection (SQL, NoSQL)
 - Cross-site scripting (XSS)
 - Cross-site request forgery (CSRF)
-- Broken Access Control/IDOR)
+- Broken Access Control (IDOR)
 - Server-side code execution bugs (RCE)
 
 **Sebagai catatan**, cakupan program BukaBounty terbatas pada hal teknis yang berhubungan dengan web. Hal di luar teknis seperti masuk ke kantor Bukalapak, serangan fisik pada fasilitas Bukalapak, phishing pada karyawan kami, dan sebagainya tidak akan diproses.
