@@ -181,6 +181,7 @@ hr {
 .post-link,
 .post a,
 .page a {
+  color: $blue-color;
   @extend .link;
 }
 
@@ -194,12 +195,19 @@ hr {
   }
 
   a, span {
+    color: $blue-color;
     font-size: rem(12);
     padding: .5em;
   }
 
   .prev, .next {
     @extend .link;
+  }
+}
+
+.content {
+  a {
+    color: $blue-color;
   }
 }
 
