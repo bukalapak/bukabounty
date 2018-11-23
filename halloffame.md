@@ -10,7 +10,7 @@ Terima kasih telah bersama membuat Bukalapak menjadi lebih baik.
 | Who | Personal Info | Valid Reports |
 |:---|:---|:---|
 | Ichsan Adit | - | 1 |
-| Luthfi Bia Susilo Putra | [https://medium.com/@trimatrasec](@trimatrasec) | 1 |
+| Luthfi Bia Susilo Putra | [@trimatrasec](https://medium.com/@trimatrasec) | 1 |
 | Bastian Welfrid | - | 2 |
 | Fathur Waldi L | - | 1 |
-| Tomi A | [https://www.linkedin.com/in/tomi-a-3b7a0a11b/](@tomi-a-3b7a0a11b) | 1 |
+| Tomi A | [@tomi-a-3b7a0a11b](https://www.linkedin.com/in/tomi-a-3b7a0a11b/) | 1 |
