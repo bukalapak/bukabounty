@@ -15,3 +15,4 @@ Terima kasih telah bersama membuat Bukalapak menjadi lebih baik.
 | Fathur Waldi L | - | 1 |
 | Tomi A | [@tomi-a-3b7a0a11b](https://www.linkedin.com/in/tomi-a-3b7a0a11b/) | 1 |
 | Arif Mukhlis | [@arifmukhlis](https://medium.com/@arifmukhlis) | 2 |
+| M Irfan Sulaiman | [@mirfansulaiman](https://linkedin.com/in/mirfansulaiman/) | 2 |
