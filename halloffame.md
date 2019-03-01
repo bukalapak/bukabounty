@@ -17,3 +17,5 @@ Terima kasih telah bersama membuat Bukalapak menjadi lebih baik.
 | Arif Mukhlis | [@arifmukhlis](https://medium.com/@arifmukhlis) | 2 |
 | M Irfan Sulaiman | [@mirfansulaiman](https://linkedin.com/in/mirfansulaiman/) | 2 |
 | Abdillah Muhammad Hasni | [@abdilahrf](https://abdilahrf.github.io) | 1 |
+| Dicky Achmad Fauzi | [@dckyachmd](https://twitter.com/dckyachmd) | 1 |
+| Rahmadil Adha | [@rahmadil-adha-5011435a](https://www.linkedin.com/in/rahmadil-adha-5011435a/) | 1 |
