@@ -19,3 +19,4 @@ Terima kasih telah bersama membuat Bukalapak menjadi lebih baik.
 | Abdillah Muhammad Hasni | [@abdilahrf](https://abdilahrf.github.io) | 1 |
 | Dicky Achmad Fauzi | [@dckyachmd](https://twitter.com/dckyachmd) | 1 |
 | Rahmadil Adha | [@rahmadil-adha-5011435a](https://www.linkedin.com/in/rahmadil-adha-5011435a/) | 1 |
+| Nosa Shandy | [@apapedulimu](https://apapedulimu.click/) | 2 |
