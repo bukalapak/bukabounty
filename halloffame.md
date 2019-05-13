@@ -21,4 +21,4 @@ Terima kasih telah bersama membuat Bukalapak menjadi lebih baik.
 | Rahmadil Adha | [@rahmadil-adha-5011435a](https://www.linkedin.com/in/rahmadil-adha-5011435a/) | 1 |
 | Nosa Shandy | [@apapedulimu](https://apapedulimu.click/) | 2 |
 | Bahtiyar Istiyarno | [@bahtiyar-istiyarno](https://www.linkedin.com/in/bahtiyar-istiyarno/) | 1 |
-| Mukul Malviya | - | 1 | 
+| Mukul Malviya | [@mukul-malviya](https://www.linkedin.com/in/mukul-malviya-16a40a121/) | 1 | 
