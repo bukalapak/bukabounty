@@ -14,7 +14,7 @@ Terima kasih telah bersama membuat Bukalapak menjadi lebih baik.
 | Bastian Welfrid | - | 3 |
 | Fathur Waldi L | - | 1 |
 | Tomi A | [@tomi-a-3b7a0a11b](https://www.linkedin.com/in/tomi-a-3b7a0a11b/) | 1 |
-| Arif Mukhlis | [@arifmukhlis](https://medium.com/@arifmukhlis) | 2 |
+| Arif Mukhlis | [@arifmukhlis](https://medium.com/@arifmukhlis) | 3 |
 | M Irfan Sulaiman | [@mirfansulaiman](https://linkedin.com/in/mirfansulaiman/) | 2 |
 | Abdillah Muhammad Hasni | [@abdilahrf](https://abdilahrf.github.io) | 1 |
 | Dicky Achmad Fauzi | [@dckyachmd](https://twitter.com/dckyachmd) | 1 |
