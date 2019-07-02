@@ -11,12 +11,12 @@ Terima kasih telah bersama membuat Bukalapak menjadi lebih baik.
 |:---|:---|:---|
 | Ichsan Adit | - | 1 |
 | Luthfi Bia Susilo Putra | [@trimatrasec](https://medium.com/@trimatrasec) | 2 |
-| Bastian Welfrid | - | 5 |
+| Bastian Welfrid | - | 6 |
 | Fathur Waldi L | - | 1 |
 | Tomi A | [@tomi-a-3b7a0a11b](https://www.linkedin.com/in/tomi-a-3b7a0a11b/) | 1 |
 | Arif Mukhlis | [@arifmukhlis](https://medium.com/@arifmukhlis) | 3 |
 | M Irfan Sulaiman | [@mirfansulaiman](https://linkedin.com/in/mirfansulaiman/) | 2 |
-| Abdillah Muhammad Hasni | [@abdilahrf](https://abdilahrf.github.io) | 1 |
+| Abdillah Muhammad Hasni | [@abdilahrf](https://abdilahrf.github.io) | 2 |
 | Dicky Achmad Fauzi | [@dckyachmd](https://twitter.com/dckyachmd) | 1 |
 | Rahmadil Adha | [@rahmadil-adha-5011435a](https://www.linkedin.com/in/rahmadil-adha-5011435a/) | 1 |
 | Nosa Shandy | [@apapedulimu](https://apapedulimu.click/) | 2 |
