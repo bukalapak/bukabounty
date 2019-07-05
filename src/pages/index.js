@@ -69,6 +69,7 @@ export default function App() {
     <>
       <Helmet>
         <title>{data.site.siteMetadata.title}</title>
+        <link rel="icon" type="image/ico" href="favicon.ico" />
       </Helmet>
 
       <AppBar position="static">
