@@ -6,11 +6,12 @@ import { makeStyles } from '@material-ui/core/styles';
 import AppBar from '@material-ui/core/AppBar';
 import Box from '@material-ui/core/Box';
 import Container from '@material-ui/core/Container';
+import Link from '@material-ui/core/Link';
+import Paper from '@material-ui/core/Paper';
 import Typography from '@material-ui/core/Typography';
 import Tabs from '@material-ui/core/Tabs';
 import Tab from '@material-ui/core/Tab';
 import Toolbar from '@material-ui/core/Toolbar';
-import Paper from '@material-ui/core/Paper';
 
 import BugBounty from '../components/BugBounty';
 import Scopes from '../components/Scopes';
@@ -41,8 +42,11 @@ const useStyles = makeStyles((theme) => ({
     flexGrow: 1,
   },
   component: {
-    padding: theme.spacing(3),
-  }
+    padding: theme.spacing(2),
+  },
+  footer: {
+    padding: theme.spacing(2),
+  },
 }));
 
 export default function App() {
@@ -99,6 +103,16 @@ export default function App() {
           </Paper>
         </Box>
       </Container>
+
+      <footer className={classes.footer}>
+        <Box color="text.secondary" textAlign="center">
+          <Typography variant="body2">
+            &copy;{` 2019 `}
+            <Link href="https://www.bukalapak.com" target="_blank" rel="noopener noreferrer">Bukalapak</Link>
+            {` </> Red Team`}
+          </Typography>
+        </Box>
+      </footer>
     </>
   );
 }
