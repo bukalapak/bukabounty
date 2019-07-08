@@ -66,6 +66,9 @@ const useStyles = makeStyles(theme => ({
     marginBottom: theme.spacing(2),
     marginLeft: theme.spacing(2),
   },
+  image: {
+    maxWidth: '100%',
+  },
 }));
 
 export default function Bounty() {
@@ -157,7 +160,7 @@ export default function Bounty() {
       <Typography variant="h5" gutterBottom>
         Contoh laporan yang baik
       </Typography>
-      <img src="sample_report.png" alt="Contoh laporan"></img>
+      <img className={classes.image} src="sample_report.png" alt="Contoh laporan"></img>
     </Typography>
   )
 };
