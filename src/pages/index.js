@@ -90,6 +90,7 @@ export default function App() {
         <Box my={4}>
           <Paper className={classes.paper}>
             <Tabs
+              variant="scrollable"
               value={tabValue}
               onChange={handleChange}
               indicatorColor="primary"
