@@ -54,9 +54,9 @@ const Researchers = [
     profile: null,
     lastSubmission: Date.parse('July 11, 2018'),
     bounties: {
-      medium: 0,
+      medium: 1,
       high: 0,
-      critical: 1,
+      critical: 0,
       emergency: 0,
     }
   },
