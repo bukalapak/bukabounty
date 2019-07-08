@@ -53,7 +53,7 @@ const Vulnerabilities = [
   },
   {
     name: 'Multi-factor Authentication Bypass',
-    description: 'Hanya untuk untrusted devices',
+    description: 'Bypass OTP untuk untrusted devices',
   },
   {
     name: 'Cross-Site Scripting (XSS)',
@@ -71,11 +71,19 @@ const Vulnerabilities = [
     name: 'Cross-Site Request Forgery (CSRF)',
     description: 'Kecuali CSRF pada logout atau memang disengaja untuk user anonymous',
   },
+  {
+    name: 'Business Logic Flaws',
+    description: 'Celah yang dapat merugikan Bukalapak atau penggunanya',
+  },
 ]
 
 const OutOfScopeVulnerabilities = [
   {
     name: 'Penemuan yang melanggar aturan dan/atau di luar cakupan',
+  },
+  {
+    name: 'Pemakaian automated scanner',
+    description: 'Hasil output dari tools seperti nmap tidak diterima',
   },
   {
     name: 'Social engineering',
@@ -87,6 +95,13 @@ const OutOfScopeVulnerabilities = [
   {
     name: 'Missing security headers',
     description: 'Contoh: HSTS, cookie flags, X-Frame-Options, X-XSS-Protection, dll',
+  },
+  {
+    name: 'DDoS',
+    description: 'Kecuali DoS pada level aplikasi dan eksploitnya mudah',
+  },
+  {
+    name: 'Clickjacking',
   },
 ]
 
