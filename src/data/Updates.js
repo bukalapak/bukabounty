@@ -12,7 +12,7 @@
 
 const Updates = [
   {
-    date: '04/07/2019',
+    date: '8 Juli 2019',
     changes: [
       'Penambahan seller.bukalapak.com dan mitra.bukalapak.com ke dalam cakupan bug bounty.',
       'Perhitungan poin dan ranking pada Wall of Fame.'
