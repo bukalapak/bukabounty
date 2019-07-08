@@ -151,7 +151,7 @@ export default function Bounty() {
       {activeStep === reportSteps.length && (
         <Paper square elevation={0} className={classes.stepperActionsReset}>
           <Typography>Jika dinyatakan valid, selamat! Tunggu email selanjutnya dari kami untuk pemberian imbalan.</Typography>
-          <Button variant="con" onClick={handleStepReset} className={classes.stepperButton}>
+          <Button onClick={handleStepReset} className={classes.stepperButton}>
             Ulang
           </Button>
         </Paper>
