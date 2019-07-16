@@ -79,14 +79,19 @@ const Vulnerabilities = [
 
 const OutOfScopeVulnerabilities = [
   {
-    name: 'Penemuan yang melanggar aturan dan/atau di luar cakupan',
+    name: 'Temuan yang melanggar aturan dan/atau di luar cakupan',
+  },
+  {
+    name: 'Temuan dengan risiko rendah',
+    description: 'Self XSS, Login/Logout CSRF, CORS tanpa melampirkan bukti yang berakibat kepada pengguna lain',
   },
   {
     name: 'Pemakaian automated scanner',
-    description: 'Hasil output dari tools seperti nmap tidak diterima',
+    description: 'Hasil output dari tools seperti Nmap, SSL Scan, dan lainnya tidak diterima',
   },
   {
     name: 'Social engineering',
+    description: 'Memanfaatkan phising/fraud diluar Bukalapak (email, sms, facebook messenger, whatsapp, dan lainnya)',
   },
   {
     name: 'Open redirects',
