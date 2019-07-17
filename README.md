@@ -7,6 +7,7 @@ BukaBounty is Bukalapak Bug Bounty Program. Bukalapak will reward security resea
 ## Develop
 ```sh
 yarn develop
+yarn deploy
 ```
 
 Then view it in http://localhost:8000/.
