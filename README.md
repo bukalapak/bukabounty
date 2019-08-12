@@ -6,6 +6,7 @@ BukaBounty is Bukalapak Bug Bounty Program. Bukalapak will reward security resea
 
 ## Develop
 ```sh
+yarn install
 yarn develop
 yarn deploy
 ```
