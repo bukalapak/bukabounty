@@ -74,9 +74,9 @@ const Researchers = [
   {
     name: 'Arif Mukhlis',
     profile: 'https://medium.com/@arifmukhlis',
-    lastSubmission: Date.parse('May 12, 2019'),
+    lastSubmission: Date.parse('August 03, 2019'),
     bounties: {
-      medium: 1,
+      medium: 3,
       high: 2,
       critical: 0,
       emergency: 0,
