@@ -21,4 +21,6 @@ Edit files in `src/data/<data>.js` and push it to the branch `master`. Then depl
 yarn deploy
 ```
 ## Deploy via Docker
-```https://gitlab.cloud.bukalapak.io/infosec/redteam/bukabounty-deployer```
+```sh
+https://gitlab.cloud.bukalapak.io/infosec/redteam/bukabounty-deployer
+```
