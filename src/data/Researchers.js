@@ -27,6 +27,17 @@ const Researchers = [
       emergency: 0,
     }
   },
+    {
+    name: 'Becausewhynut',
+    profile: null,
+    lastSubmission: Date.parse('August 13, 2019'),
+    bounties: {
+      medium: 0,
+      high: 1,
+      critical: 0,
+      emergency: 0,
+    }
+  },
   {
     name: 'Luthfi Bia Susilo Putra',
     profile: 'https://medium.com/@trimatrasec',
