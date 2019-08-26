@@ -29,7 +29,7 @@ const Researchers = [
   },
     {
     name: 'Becausewhynut',
-    profile: null,
+    profile: 'https://twitter.com/becausewhynut_',
     lastSubmission: Date.parse('August 13, 2019'),
     bounties: {
       medium: 0,
