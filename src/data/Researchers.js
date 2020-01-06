@@ -17,6 +17,39 @@
 
 const Researchers = [
   {
+    name: 'jasayosep',
+    profile: 'https://medium.com/@jasayosep',
+    lastSubmission: Date.parse('October 27, 2019'),
+    bounties: {
+      medium: 1,
+      high: 0,
+      critical: 0,
+      emergency: 0,
+    }
+  },
+  {
+    name: 'AsdqweDev',
+    profile: 'https://asdqwe.net',
+    lastSubmission: Date.parse('September 16, 2019'),
+    bounties: {
+      medium: 0,
+      high: 1,
+      critical: 0,
+      emergency: 0,
+    }
+  },
+  {
+    name: 'Rahmat Wahyu Hadi',
+    profile: 'https://github.com/wahyuhadi',
+    lastSubmission: Date.parse('September 5, 2019'),
+    bounties: {
+      medium: 0,
+      high: 0,
+      critical: 1,
+      emergency: 0,
+    }
+  },
+  {
     name: 'Ichsan Adit',
     profile: null,
     lastSubmission: Date.parse('July 9, 2018'),
@@ -66,7 +99,7 @@ const Researchers = [
     lastSubmission: Date.parse('July 11, 2018'),
     bounties: {
       medium: 1,
-      high: 0,
+      high: 1,
       critical: 0,
       emergency: 0,
     }
@@ -96,9 +129,9 @@ const Researchers = [
   {
     name: 'M Irfan Sulaiman',
     profile: 'https://linkedin.com/in/mirfansulaiman/',
-    lastSubmission: Date.parse('January 12, 2019'),
+    lastSubmission: Date.parse('August 21, 2019'),
     bounties: {
-      medium: 2,
+      medium: 3,
       high: 0,
       critical: 0,
       emergency: 0,
