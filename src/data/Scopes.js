@@ -107,11 +107,11 @@ const OutOfScopeVulnerabilities = [
   },
   {
     name: 'Clickjacking',
-    description: 'Mayoritas clickjackiPada kasus tertentu kami akan memproses jika risikonya tinggi dan mudah untuk di eksploitasi. 
+    description: 'Mayoritas clickjackiPada kasus tertentu kami akan memproses jika risikonya tinggi dan mudah untuk di eksploitasi.', 
   },
   {
     name: 'Kesalahan pada konfigurasi SPF, DKIM, dan DMARC.',
-    description: 'SPF, DKIM, dan DMARC yang hanya menggunakan teknik social engineering untuk eksploitasinya'
+    description: 'SPF, DKIM, dan DMARC yang hanya menggunakan teknik social engineering untuk eksploitasinya',
   },
 ]
 
