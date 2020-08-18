@@ -19,11 +19,12 @@ import { stableSort, getSorting } from '../utils/sort';
 
 const headers = [
   { id: 'rank', label: 'Rank', numeric: false, sortable: true },
-  { id: 'name', label: 'Name', numeric: false, sortable: true },
-  { id: 'bounties_emergency', label: `Emergency`, tooltip: `${Points.emergency} points`, numeric: true, sortable: true, },
+  { id: 'name', label: 'Nama', numeric: false, sortable: false },
+  // { id: 'bounties_emergency', label: `Emergency`, tooltip: `${Points.emergency} points`, numeric: true, sortable: true, },
   { id: 'bounties_critical', label: `Critical`, tooltip: `${Points.critical} points`, numeric: true, sortable: true, },
   { id: 'bounties_high', label: `High`, tooltip: `${Points.high} points`, numeric: true, sortable: true, },
   { id: 'bounties_medium', label: `Medium`, tooltip: `${Points.medium} points`, numeric: true, sortable: true, },
+  { id: 'bounties_low', label: `Low`, tooltip: `${Points.low} points`, numeric: true, sortable: true, },
   { id: 'points', label: 'Points', tooltip: 'Total', numeric: true, sortable: true, },
 ];
 
@@ -108,11 +109,12 @@ export default function WallOfFame() {
                           : row.name
                         }
                         </TableCell>
-                        <TableCell align="right">{row.bounties.emergency}</TableCell>
-                        <TableCell align="right">{row.bounties.critical}</TableCell>
-                        <TableCell align="right">{row.bounties.high}</TableCell>
-                        <TableCell align="right">{row.bounties.medium}</TableCell>
-                        <TableCell align="right">{row.points}</TableCell>
+                        {/* <TableCell align="right">{row.bounties.emergency}</TableCell> */}
+                        <TableCell align="center">{row.bounties.critical}</TableCell>
+                        <TableCell align="center">{row.bounties.high}</TableCell>
+                        <TableCell align="center">{row.bounties.medium}</TableCell>
+                        <TableCell align="center">{row.bounties.low}</TableCell>
+                        <TableCell align="center">{row.points}</TableCell>
                       </TableRow>
                     );
                   })}
