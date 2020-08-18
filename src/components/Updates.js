@@ -11,7 +11,7 @@ export default function ChangeLog() {
         Setiap perubahan pada program bug bounty akan dicatat di sini.
       </Typography>
 
-      {Updates.map(changelog => {
+      {Updates.reverse().map(changelog => {
         return (
           <>
             <Typography variant="h5" gutterBottom>
