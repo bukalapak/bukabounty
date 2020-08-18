@@ -29,6 +29,18 @@ const Researchers = [
     }
   },
   {
+    name: 'Reynaldi Hartono',
+    profile: 'https://reynhartono.com',
+    lastSubmission: Date.parse('July 19, 2020'),
+    bounties: {
+      low: 1,
+      medium: 0,
+      high: 0,
+      critical: 0,
+      // emergency: 0,
+    }
+  },
+  {
     name: 'Rahmat Rhamadhan',
     profile: null,
     lastSubmission: Date.parse('June 13, 2020'),
