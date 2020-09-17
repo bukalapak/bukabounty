@@ -42,6 +42,10 @@ const Vulnerabilities = [
     description: 'Kecuali key sudah tidak digunakan lagi oleh Bukalapak'
   },
   {
+    name: 'Leaked PII',
+    description: 'Informasi pengguna Bukalapak yang bersifat rahasia.'
+  },
+  {
     name: 'SQL/NoSQL Injection',
     description: 'Cukup tampilkan output SELECT user() sebagai PoC'
   },
