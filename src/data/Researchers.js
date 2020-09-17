@@ -29,6 +29,18 @@ const Researchers = [
     }
   },
   {
+    name: 'Emanuel Beni Harijanto',
+    profile: 'https://www.linkedin.com/in/emanuelharijanto/',
+    lastSubmission: Date.parse('August 25, 2020'),
+    bounties: {
+      low: 1,
+      medium: 0,
+      high: 0,
+      critical: 0,
+      // emergency: 0,
+    }
+  },
+  {
     name: 'Reynaldi Hartono',
     profile: 'https://reynhartono.com',
     lastSubmission: Date.parse('July 19, 2020'),
