@@ -29,6 +29,42 @@ const Researchers = [
     }
   },
   {
+    name: 'Bima Ikhsan',
+    profile: 'https://twitter.com/Ikhsaanaa_',
+    lastSubmission: Date.parse('October 29, 2020'),
+    bounties: {
+      low: 0,
+      medium: 2,
+      high: 0,
+      critical: 0,
+      // emergency: 0,
+    }
+  },
+  {
+    name: 'Benediktus Sava',
+    profile: 'https://twitter.com/savabenediktus',
+    lastSubmission: Date.parse('October 16, 2020'),
+    bounties: {
+      low: 1,
+      medium: 0,
+      high: 0,
+      critical: 0,
+      // emergency: 0,
+    }
+  },
+  {
+    name: 'Tommy Elco Geraldi',
+    profile: 'https://www.linkedin.com/in/tommyelcogeraldi/',
+    lastSubmission: Date.parse('October 12, 2020'),
+    bounties: {
+      low: 1,
+      medium: 0,
+      high: 0,
+      critical: 0,
+      // emergency: 0,
+    }
+  },
+  {
     name: 'Emanuel Beni Harijanto',
     profile: 'https://www.linkedin.com/in/emanuelharijanto/',
     lastSubmission: Date.parse('August 25, 2020'),
