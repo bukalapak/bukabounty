@@ -17,12 +17,24 @@
 
 const Researchers = [
   {
-    name: 'jasayosep',
-    profile: 'https://medium.com/@jasayosep',
-    lastSubmission: Date.parse('October 27, 2019'),
+    name: 'Rudi Andriano',
+    profile: 'https://www.linkedin.com/in/rudiandriano/',
+    lastSubmission: Date.parse('January 28, 2021'),
     bounties: {
       low: 0,
       medium: 1,
+      high: 0,
+      critical: 0,
+      // emergency: 0,
+    }
+  },
+  {
+    name: 'jasayosep',
+    profile: 'https://medium.com/@jasayosep',
+    lastSubmission: Date.parse('January 3, 2021'),
+    bounties: {
+      low: 0,
+      medium: 2,
       high: 0,
       critical: 0,
       // emergency: 0,
