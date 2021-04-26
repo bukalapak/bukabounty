@@ -17,6 +17,18 @@
 
 const Researchers = [
   {
+    name: 'Yoel Indra',
+    profile: 'https://www.linkedin.com/in/joel-indra/',
+    lastSubmission: Date.parse('April 24, 2021'),
+    bounties: {
+      low: 1,
+      medium: 0,
+      high: 0,
+      critical: 0,
+      // emergency: 0,
+    }
+  },
+  {
     name: 'Aidil Arief',
     profile: 'https://www.linkedin.com/in/aidil-arief-927b48209',
     lastSubmission: Date.parse('March 12, 2021'),
