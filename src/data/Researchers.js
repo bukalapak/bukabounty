@@ -17,6 +17,18 @@
 
 const Researchers = [
   {
+    name: 'Muhammad Zaid Ghifari',
+    profile: 'https://www.linkedin.com/in/muhammad-zaid-ghifari-cnss-36695218b',
+    lastSubmission: Date.parse('June 25, 2021'),
+    bounties: {
+      low: 1,
+      medium: 0,
+      high: 0,
+      critical: 0,
+      // emergency: 0,
+    }
+  },
+  {
     name: 'Yoel Indra',
     profile: 'https://www.linkedin.com/in/joel-indra/',
     lastSubmission: Date.parse('April 24, 2021'),
