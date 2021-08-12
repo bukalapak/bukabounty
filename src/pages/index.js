@@ -108,7 +108,7 @@ export default function App() {
       <footer className={classes.footer}>
         <Box color="text.secondary" textAlign="center">
           <Typography variant="body2">
-            &copy;{` 2020 `}
+            &copy;{` 2021 `}
             <Link href="https://www.bukalapak.com" target="_blank" rel="noopener noreferrer">Bukalapak</Link>
             {` </> Red Team`}
           </Typography>

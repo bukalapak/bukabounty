@@ -23,6 +23,7 @@ const reportSteps = [
           <li>Langkah-langkah singkat yang diperlukan untuk mereplikasi celah keamanan.</li>
           <li>Bukti atau Proof of Concept (PoC) yang dapat berbentuk gambar atau video. Jadikan sebagai lampiran email.</li>
           <li>Dampak yang dapat ditimbulkan akibat adanya celah keamanan ini.</li>
+          <li>Saran / Remediasi dalam perbaikan celah keamanan.</li>
         </ul>
       </>
     )
