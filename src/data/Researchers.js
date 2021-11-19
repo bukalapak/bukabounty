@@ -221,13 +221,25 @@ const Researchers = [
     }
   },
   {
-    name: 'Muhammad R. Maulana',
-    profile: 'https://twitter.com/agamimaulana',
-    lastSubmission: Date.parse('March 3, 2020'),
+    name: 'Bagas Rizki Gunardi',
+    profile: 'https://linkedin.com/in/bagasgunardi',
+    lastSubmission: Date.parse('October 11, 2021'),
     bounties: {
       low: 1,
-      medium: 2,
-      high: 4,
+      medium: 0,
+      high: 0,
+      critical: 0,
+      // emergency: 0,
+    }
+  },
+  {
+    name: 'Muhammad R. Maulana',
+    profile: 'https://twitter.com/agamimaulana',
+    lastSubmission: Date.parse('October 30, 2021'),
+    bounties: {
+      low: 1,
+      medium: 3,
+      high: 6,
       critical: 0,
       // emergency: 0,
     }
