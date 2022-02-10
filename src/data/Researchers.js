@@ -41,6 +41,18 @@ const Researchers = [
     }
   },
   {
+    name: 'Afif Hidayatullah',
+    profile: 'https://www.linkedin.com/in/afif-hidayatullah-a0a4a1146',
+    lastSubmission: Date.parse('February 8, 2022'),
+    bounties: {
+      low: 1,
+      medium: 0,
+      high: 0,
+      critical: 0,
+      // emergency: 0,
+    }
+  },
+  {
     name: 'Muhammad Zaid Ghifari',
     profile: 'https://www.linkedin.com/in/muhammad-zaid-ghifari-cnss-36695218b',
     lastSubmission: Date.parse('June 25, 2021'),
