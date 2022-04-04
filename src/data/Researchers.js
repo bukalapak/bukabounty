@@ -67,10 +67,10 @@ const Researchers = [
   {
     name: 'Yoel Indra',
     profile: 'https://www.linkedin.com/in/joel-indra/',
-    lastSubmission: Date.parse('April 24, 2021'),
+    lastSubmission: Date.parse('February 24, 2022'),
     bounties: {
       low: 1,
-      medium: 0,
+      medium: 1,
       high: 0,
       critical: 0,
       // emergency: 0,
