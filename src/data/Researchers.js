@@ -17,9 +17,33 @@
 
 const Researchers = [
   {
+    name: 'Mr Anons',
+    profile: 'https://twitter.com/mranonstester',
+    lastSubmission: Date.parse('April 7, 2022'),
+    bounties: {
+      low: 1,
+      medium: 0,
+      high: 0,
+      critical: 0,
+      // emergency: 0,
+    }
+  },
+  {
     name: 'ivandjava',
     profile: 'https://www.linkedin.com/in/gunardi-irfansyah-66a06577',
     lastSubmission: Date.parse('July 17, 2021'),
+    bounties: {
+      low: 1,
+      medium: 0,
+      high: 0,
+      critical: 0,
+      // emergency: 0,
+    }
+  },
+  {
+    name: 'Ayush Juneja',
+    profile: 'https://www.linkedin.com/in/ayush-juneja-565228221/',
+    lastSubmission: Date.parse('April 11, 2021'),
     bounties: {
       low: 1,
       medium: 0,
