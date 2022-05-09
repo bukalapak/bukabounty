@@ -29,6 +29,18 @@ const Researchers = [
     }
   },
   {
+    name: 'Saikiran Satharapu',
+    profile: 'https://www.linkedin.com/in/sai-kiran-satharapu-700431204',
+    lastSubmission: Date.parse('April 23, 2022'),
+    bounties: {
+      low: 1,
+      medium: 0,
+      high: 0,
+      critical: 0,
+      // emergency: 0,
+    }
+  },
+  {
     name: 'ivandjava',
     profile: 'https://www.linkedin.com/in/gunardi-irfansyah-66a06577',
     lastSubmission: Date.parse('July 17, 2021'),
