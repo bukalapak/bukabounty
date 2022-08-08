@@ -298,7 +298,7 @@ const Researchers = [
     lastSubmission: Date.parse('October 30, 2021'),
     bounties: {
       low: 1,
-      medium: 3,
+      medium: 4,
       high: 6,
       critical: 0,
       // emergency: 0,
