@@ -544,6 +544,30 @@ const Researchers = [
       // emergency: 0,
     }
   },
+  {
+    name: 'Bilal Abdussalam',
+    profile: 'https://www.linkedin.com/in/bilalabdussalam/',
+    lastSubmission: Date.parse('Jan 17, 2023'),
+    bounties: {
+      low: 1,
+      medium: 0,
+      high: 0,
+      critical: 0,
+      // emergency: 0,
+    }
+  },
+  {
+    name: 'Ryo Chris Samuel',
+    profile: 'https://www.linkedin.com/in/ryo-chris-samuel/',
+    lastSubmission: Date.parse('Jan 09, 2023'),
+    bounties: {
+      low: 1,
+      medium: 0,
+      high: 0,
+      critical: 0,
+      // emergency: 0,
+    }
+  },
 ];
 
 export default Researchers;
