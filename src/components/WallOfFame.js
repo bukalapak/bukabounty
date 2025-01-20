@@ -19,7 +19,7 @@ import { stableSort, getSorting } from '../utils/sort';
 
 const headers = [
   { id: 'rank', label: 'Rank', numeric: false, sortable: true },
-  { id: 'name', label: 'Nama', numeric: false, sortable: false },
+  { id: 'name', label: 'Name', numeric: false, sortable: false },
   // { id: 'bounties_emergency', label: `Emergency`, tooltip: `${Points.emergency} points`, numeric: true, sortable: true, },
   { id: 'bounties_critical', label: `Critical`, tooltip: `${Points.critical} points`, numeric: true, sortable: true, },
   { id: 'bounties_high', label: `High`, tooltip: `${Points.high} points`, numeric: true, sortable: true, },
@@ -84,7 +84,7 @@ export default function WallOfFame() {
   return (
     <>
       <Typography variant="body1" paragraph>
-        Berikut adalah periset yang telah berpartisipasi dalam program BukaBounty dan melaporkan celah keamanan yang valid. Terima kasih telah bersama-sama membuat Bukalapak menjadi lebih baik!
+        Here are researchers who have participated in the BukaBounty program and reported valid security issues. Thank you for helping us make Bukalapak more secure!
       </Typography>
 
       <div className={classes.root}>

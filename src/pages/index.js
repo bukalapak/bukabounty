@@ -14,7 +14,6 @@ import Tab from '@material-ui/core/Tab';
 import Toolbar from '@material-ui/core/Toolbar';
 
 import BugBounty from '../components/BugBounty';
-import Scopes from '../components/Scopes';
 import Updates from '../components/Updates';
 import WallOfFame from '../components/WallOfFame';
 
@@ -24,15 +23,11 @@ const mainTabs = [
     component: <BugBounty />,
   },
   {
-    label: 'Cakupan',
-    component: <Scopes />,
-  },
-  {
     label: 'Wall of Fame',
     component: <WallOfFame />,
   },
   {
-    label: 'Pembaruan',
+    label: 'Updates',
     component: <Updates />,
   }
 ];
@@ -108,9 +103,9 @@ export default function App() {
       <footer className={classes.footer}>
         <Box color="text.secondary" textAlign="center">
           <Typography variant="body2">
-            &copy;{` 2021 `}
+            &copy;{` 2025 `}
             <Link href="https://www.bukalapak.com" target="_blank" rel="noopener noreferrer">Bukalapak</Link>
-            {` </> Red Team`}
+            {` </> Security Team`}
           </Typography>
         </Box>
       </footer>

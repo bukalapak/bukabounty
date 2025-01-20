@@ -12,16 +12,21 @@
 
 const Updates = [
   {
-    date: '8 Juli 2019',
+    date: 'July 8th 2019',
     changes: [
-      'Penambahan seller.bukalapak.com dan mitra.bukalapak.com ke dalam cakupan bug bounty.',
-      'Perhitungan poin dan ranking pada Wall of Fame.'
+      'Addition of seller.bukalapak.com and mitra.bukalapak.com to the bug bounty scope.'
     ]
   },
   {
-    date: '17 Agustus 2020',
+    date: 'August 17th 2020',
     changes: [
-      'Bug dengan tingkat risiko "Low" mendapatkan 5 poin pada Wall of Fame.'
+      'Bugs with a risk rating of "Low" get 5 points on the Wall of Fame.'
+    ]
+  },
+  {
+    date: 'January 20th 2025',
+    changes: [
+      'Indefinite suspension of the bounty program.'
     ]
   },
 ];

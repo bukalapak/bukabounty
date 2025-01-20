@@ -8,7 +8,7 @@ export default function ChangeLog() {
   return (
     <>
       <Typography variant="body1" paragraph>
-        Setiap perubahan pada program bug bounty akan dicatat di sini.
+        Any changes to the bug bounty program will be noted here.
       </Typography>
 
       {Updates.reverse().map(changelog => {
